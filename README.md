@@ -1,9 +1,14 @@
-# api documentation for  [grunt-rsync (v2.0.1)](https://github.com/jedrichards/grunt-rsync)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-rsync.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-rsync) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-rsync.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-rsync)
+# npmdoc-grunt-rsync
+
+#### api documentation for  [grunt-rsync (v2.0.1)](https://github.com/jedrichards/grunt-rsync)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-rsync.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-rsync) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-rsync.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-rsync)
+
 #### A Grunt task for accessing the file copying and syncing capabilities of the rsync command line utility. Uses the rsyncwrapper npm module for the core functionality.
 
-[![NPM](https://nodei.co/npm/grunt-rsync.png?downloads=true)](https://www.npmjs.com/package/grunt-rsync)
+[![NPM](https://nodei.co/npm/grunt-rsync.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-rsync)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-rsync/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-grunt-rsync_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-rsync/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-grunt-rsync/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-grunt-rsync/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-rsync/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-rsync/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-grunt-rsync/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Jed Richards",
-        "email": "jed@seisaku.co.uk"
+        "name": "Jed Richards"
     },
     "bugs": {
         "url": "https://github.com/jedrichards/grunt-rsync/issues"
@@ -62,13 +66,11 @@
     "main": "grunt.js",
     "maintainers": [
         {
-            "name": "jedrichards",
-            "email": "jed@seisaku.co.uk"
+            "name": "jedrichards"
         }
     ],
     "name": "grunt-rsync",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/jedrichards/grunt-rsync.git"
@@ -79,16 +81,6 @@
     "version": "2.0.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module grunt-rsync](#apidoc.module.grunt-rsync)
-
-
-
-# <a name="apidoc.module.grunt-rsync"></a>[module grunt-rsync](#apidoc.module.grunt-rsync)
 
 
 
