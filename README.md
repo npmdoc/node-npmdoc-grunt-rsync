@@ -1,6 +1,6 @@
 # npmdoc-grunt-rsync
 
-#### api documentation for  [grunt-rsync (v2.0.1)](https://github.com/jedrichards/grunt-rsync)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-rsync.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-rsync) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-rsync.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-rsync)
+#### basic api documentation for  [grunt-rsync (v2.0.1)](https://github.com/jedrichards/grunt-rsync)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-rsync.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-rsync) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-rsync.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-rsync)
 
 #### A Grunt task for accessing the file copying and syncing capabilities of the rsync command line utility. Uses the rsyncwrapper npm module for the core functionality.
 
@@ -78,7 +78,8 @@
     "scripts": {
         "test": "grunt test"
     },
-    "version": "2.0.1"
+    "version": "2.0.1",
+    "bin": {}
 }
 ```
 
